@@ -1,0 +1,47 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: whitesmoke;
+  margin: 0;
+}
+
+#main {
+  margin: 30px 15px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #660073;
+}
+
+h1 {
+  font-size: 50px;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+h3 {
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  display: inline-blockblock;
+  height: auto;
+  margin: 0 10px;
+  
+}
+
+#img-div {
+  
+}
+
+#img-caption {
+  
+}
+
+
